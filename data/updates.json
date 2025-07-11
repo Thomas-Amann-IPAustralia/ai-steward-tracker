@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "platform": "System",
+    "type": "info",
+    "title": "Welcome to AI Steward Tracker!",
+    "summary": "Your monitoring system is now active. I'll keep an eye on platform updates and Australian AI policies for you. Check back regularly for updates!",
+    "timestamp": "2025-07-11T00:00:00.000Z",
+    "action_required": false
+  }
+]
