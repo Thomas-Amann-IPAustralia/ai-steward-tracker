@@ -1,5 +1,65 @@
 [
   {
+    "id": 1752241799550,
+    "platform": "Gemini",
+    "url": "https://policies.google.com/terms",
+    "type": "updated",
+    "title": "Gemini Policy Update",
+    "summary": "Friendly summary from Gemini",
+    "timestamp": "2025-07-11T13:49:59.550Z",
+    "action_required": false
+  },
+  {
+    "id": 1752241799408,
+    "platform": "Gemini",
+    "url": "https://policies.google.com/privacy",
+    "type": "updated",
+    "title": "Gemini Policy Update",
+    "summary": "Friendly summary from Gemini",
+    "timestamp": "2025-07-11T13:49:59.408Z",
+    "action_required": false
+  },
+  {
+    "id": 1752241799243,
+    "platform": "ChatGPT",
+    "url": "https://openai.com/terms/",
+    "type": "updated",
+    "title": "ChatGPT Policy Update",
+    "summary": "Friendly summary from Gemini",
+    "timestamp": "2025-07-11T13:49:59.243Z",
+    "action_required": false
+  },
+  {
+    "id": 1752241799215,
+    "platform": "ChatGPT",
+    "url": "https://openai.com/privacy/",
+    "type": "updated",
+    "title": "ChatGPT Policy Update",
+    "summary": "Friendly summary from Gemini",
+    "timestamp": "2025-07-11T13:49:59.215Z",
+    "action_required": false
+  },
+  {
+    "id": 1752241799181,
+    "platform": "Claude",
+    "url": "https://www.anthropic.com/terms",
+    "type": "updated",
+    "title": "Claude Policy Update",
+    "summary": "Friendly summary from Gemini",
+    "timestamp": "2025-07-11T13:49:59.181Z",
+    "action_required": false
+  },
+  {
+    "id": 1752241799109,
+    "platform": "Claude",
+    "url": "https://www.anthropic.com/privacy",
+    "type": "updated",
+    "title": "Claude Policy Update",
+    "summary": "Friendly summary from Gemini",
+    "timestamp": "2025-07-11T13:49:59.109Z",
+    "action_required": false
+  },
+  {
     "id": 1,
     "platform": "System",
     "type": "info",
