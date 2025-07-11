@@ -53,57 +53,6 @@ h2 {
     padding-bottom: 0.5rem;
 }
 
-#manual-triggers {
-    background: #f8f9fa;
-    border: 1px solid #e9ecef;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 30px;
-}
-
-.trigger-buttons {
-    display: flex;
-    gap: 15px;
-    margin-bottom: 10px;
-    flex-wrap: wrap;
-}
-
-.trigger-btn {
-    background: #007bff;
-    color: white;
-    padding: 12px 20px;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 500;
-    transition: background-color 0.2s;
-}
-
-.trigger-btn:hover {
-    background: #0056b3;
-}
-
-.platform-trigger {
-    background: #28a745;
-}
-
-.platform-trigger:hover {
-    background: #1e7e34;
-}
-
-.policy-trigger {
-    background: #17a2b8;
-}
-
-.policy-trigger:hover {
-    background: #117a8b;
-}
-
-.trigger-help {
-    font-size: 0.9em;
-    color: #6c757d;
-    margin: 0;
-}
-
 .update-card, .platform-card, .policy-card {
     background: #fff;
     border-radius: 10px;
