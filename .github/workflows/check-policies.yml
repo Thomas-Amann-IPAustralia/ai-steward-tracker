@@ -1,13 +1,4 @@
-name: Check Policy Updates
 
-on:
-  schedule:
-    - cron: '0 8 * * 1'  # Weekly on Mondays at 8 AM
-  workflow_dispatch:
-
-jobs:
-  check-policy-updates:
-    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     
